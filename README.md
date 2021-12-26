@@ -4,4 +4,4 @@ Codefest hackathon
 
 while the clean and manipulated dataset is stored as "updated_orders.xlsx".
 
-"Demand_forecaster" is the colab notebook.
+Link to colab notebook: https://colab.research.google.com/drive/1de8lqzVdwuYNuraDqVooINppSCs1Evac
